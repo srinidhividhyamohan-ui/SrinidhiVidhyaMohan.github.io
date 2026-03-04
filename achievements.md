@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Achievements & Competitions"
+title: "Achievements"
 ---
 
-# Achievements & Competitions
+# Achievements
 
 ## Awards
 - **Best Memorial Award** — SASTRA Intra-Moot Competition
